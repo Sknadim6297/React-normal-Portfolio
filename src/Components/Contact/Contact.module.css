@@ -7,7 +7,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 100vw;
+  width: 100%;
   padding: 58px 10%;
   gap: 100px;
 }
@@ -48,7 +48,6 @@
 
 @media screen and (max-width: 830px) {
   .container {
-    width: 100%;
     flex-direction: column;
     gap: 23px;
   }

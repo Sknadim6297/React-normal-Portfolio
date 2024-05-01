@@ -16,7 +16,7 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
+      "title": "JavaScript",
       "imageSrc": "skills/graphql.png"
     },
     {
@@ -24,7 +24,11 @@
       "imageSrc": "skills/mongodb.png"
     },
     {
-      "title": "Figma",
+      "title": "Express",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "TailwindCSS",
       "imageSrc": "skills/figma.png"
     }
   ]

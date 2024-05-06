@@ -1,8 +1,9 @@
-import React from 'react'
-import styles from './Contact.module.css'
+import React from "react";
+
+import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
 
-const Contact = () => {
+ const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
@@ -12,23 +13,21 @@ const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:sknadim6297@email.com">sknadim6297@email.com</a>
+          <a href="sknadim6297@gmail.com">sknadim6297@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/in/sk-nadim-504825291/">https://www.linkedin.com/in/sk-nadim-504825291/
-</a>
+          <a href="https://www.linkedin.com/in/sk-nadim-504825291/">linkedin.com/sknadim</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/Sknadim6297">https://github.com/Sknadim6297</a>
+          <a href="https://github.com/Sknadim6297">github.com/sknadim6297</a>
         </li>
       </ul>
     </footer>
-  )
-}
-
-export default Contact
+  );
+};
+export default Contact;

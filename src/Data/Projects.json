@@ -1,50 +1,48 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "KahanBano Food Recipe App",
+      "imageSrc": "projects/Firstp.png",
+      "skills": ["React","Sass"],
+      "demo": "https://khana-banao.vercel.app/",
+      "source": "https://github.com/Sknadim6297/KhanaBanao"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "React Ecommerce App",
+      "imageSrc": "projects/Secondp.png",
+     
+      "skills": ["React", "TailwindCSS"],
+      "demo": "https://ecommerce-website-xi-jet.vercel.app/",
+      "source": "https://github.com/Sknadim6297/Ecommerce-Website"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Weather App",
+      "imageSrc": "projects/Thirdp.png",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://relaxed-salmiakki-0c4fc8.netlify.app/",
+      "source": "https://github.com/Sknadim6297/Weather-App"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Job Portal App",
+      "imageSrc": "projects/Forthp.png",
+     
+      "skills": ["React", "Firebase", "TailwindCSS"],
+      "demo": "https://job-portal-using-reactjs-and-firebase.vercel.app/",
+      "source": "https://github.com/Sknadim6297/Job-Portal-using-reactjs-and-Firebase"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": " JavaScript Calculator",
+      "imageSrc": "projects/Fifthp.png",
+     
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://joyful-licorice-8a9c22.netlify.app/",
+      "source": "https://github.com/Sknadim6297/JAVASCRIPT-CALCULATOR"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Only for Dekstop React TODO App",
+      "imageSrc": "projects/Todop.png",
+     
+      "skills": ["React", "TailwindCSS"],
+      "demo": "https://creative-sprite-170521.netlify.app/",
+      "source": "https://github.com/Sknadim6297/reacttodo "
     }
   ]

@@ -4,7 +4,7 @@ import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
 
  const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, skills, demo, source },
 }) => {
   return (
     <div className={styles.container}>
@@ -14,7 +14,6 @@ import { getImageUrl } from "../../utils";
         className={styles.image}
       />
       <h3 className={styles.title}>{title}</h3>
-      <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
         {skills.map((skill, id) => {
           return (
